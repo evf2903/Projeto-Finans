@@ -1,2 +1,2 @@
 # Projeto-Finans
-Projeto Acadêmico
+Projeto Acadêmico utilizando Bootstrap.
